@@ -1,4 +1,7 @@
 .navbar-nav {
+  position: absolute;
+  bottom: 0;
+  right: 400px;
   margin: 0 $padding;
 
   > li {
